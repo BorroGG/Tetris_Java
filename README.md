@@ -1,5 +1,5 @@
 # Tetris_Java
-## Тетрис на Java, в котором реализована работа с основными темами Java Core, такие как: коллекции, I\O, обработка ошибок, многопоточность, swing.
-### Тетрис сохраняет результаты в файл Results.txt, и, при новом открытии программы, загружает их. Результаты можно посмотерть нажав клавишу F2 или кнопку Top, во время просмотра игра ставится на паузу.
-### Начать новую игру можно по нажатию F1 или кнопки New Game. Выйти - esc или Exit.
-### Стандартное управление: Влево/Вправо - движение фигуры, Вниз - дополнительное движение вниз, Вверх - поворот фигуры, Пробел - мгновенное перемещение вниз.
+## Tetris in Java, which implements work with the main topics of Java Core, such as: collections, I \ O, error handling, multithreading, swing.
+### Tetris saves the results to the Results.txt file, and loads them when the program is opened again. The results can be viewed by pressing the F2 key or the Top button, while viewing the game is paused.
+### You can start a new game by pressing F1 or the New Game button. Exit - esc or Exit.
+### Standard controls: Left/Right - movement of the figure, Down - additional movement down, Up - rotation of the figure, Spacebar - instantaneous movement down.
